@@ -1,0 +1,2 @@
+# Lock the migration history to PostgreSQL so Prisma never applies it to another provider by mistake.
+provider = "postgresql"
